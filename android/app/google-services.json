@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357009131381",
+    "project_id": "modutour-214b5",
+    "storage_bucket": "modutour-214b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357009131381:android:287bd43c6e04b9f56a753c",
+        "android_client_info": {
+          "package_name": "com.flysonitstime.modu_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357009131381-2g37p4qi74ptpp9354a5envtr4nhvqno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUwkJAYh4_DPumTOSo7JGpUAMmfVfteI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357009131381-2g37p4qi74ptpp9354a5envtr4nhvqno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
